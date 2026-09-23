@@ -1,0 +1,6 @@
+chnange diretory to installed loaction
+than run these commands in cmd
+python -m venv .venv
+.venv\Scripts\activate          (Mac/Linux: source .venv/bin/activate)
+pip install -r requirements.txt
+streamlit run app.py
