@@ -1,0 +1,6 @@
+tensorflow>=2.15        # use tensorflow-cpu if you have no GPU
+music21>=9.1
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8         # loss-curve plot and piano roll in the UI
+streamlit>=1.35
