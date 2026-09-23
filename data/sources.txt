@@ -1,0 +1,3 @@
+# One direct .mid/.midi URL per line (lines starting with # are ignored).
+# Only add files you are allowed to use (your own transcriptions, public domain, or permissive licences).
+# Then run:  python -m src.collect_data --urls data/sources.txt
