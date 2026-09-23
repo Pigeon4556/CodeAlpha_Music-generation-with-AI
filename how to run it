@@ -1,6 +1,12 @@
-chnange diretory to installed loaction
+chnange diretory to installed loaction by
+cd /d "loc"
+
 than run these commands in cmd
+
 python -m venv .venv
+
 .venv\Scripts\activate          (Mac/Linux: source .venv/bin/activate)
+
 pip install -r requirements.txt
+
 streamlit run app.py
